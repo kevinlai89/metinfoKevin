@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /config/
+Disallow: /include/
+Disallow: /lang/
+Disallow: /public/
+Disallow: /install/
+Disallow: /templates/
+Disallow: /upload/
+Disallow: /sitemap/templates/
+Disallow: /install/
+Disallow: /job/templates/
+Disallow: /member/
+Disallow: /sitemap/templates/
+Disallow: /wap/templates/
+Sitemap: http://192.168.0.113/MetInfo5.3.8/sitemap.xml
